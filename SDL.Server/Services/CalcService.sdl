@@ -1,0 +1,4 @@
+﻿service CalcService
+{
+	int Sum(int[] numbers);
+}
